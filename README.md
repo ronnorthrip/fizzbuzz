@@ -1,6 +1,6 @@
 # FizzBuzz in Laravel
 
-Your task is to implemet the FizzBuzz algorithm in Laravel.
+Your task is to implement the FizzBuzz algorithm in Laravel.
 
 ## Requirements
 

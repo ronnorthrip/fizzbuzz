@@ -21,6 +21,6 @@
     </head>
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
         <h1 class="text-6xl text-center p-6">FizzBuzz in Laravel</h1>
-        <h2 class="text-4xl text-center p-6">Welcome Neal</h2>
+        <h2 class="text-4xl text-center p-6">Welcome</h2>
     </body>
 </html>
